@@ -12,7 +12,6 @@ It’s a space for me to **learn, test, and grow** as a developer — from small
 | Category / Categoria | Description / Descrição |
 |-----------------------|--------------------------|
 | 🧩 JavaScript Projects | Front-end and logic-based JS experiments |
-| ⚙️ Python Scripts | Automation, data analysis, and backend tools |
 | 💻 Web Projects | HTML/CSS/JS applications and UI tests |
 | 🧠 Algorithms & Challenges | Problem-solving and algorithmic exercises |
 | 🧪 Experiments | Random tests, prototypes, and concept demos |
